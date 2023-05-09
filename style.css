@@ -1,0 +1,44 @@
+.main-header {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: yellow;
+    text-align: center;
+    font-weight: 800;
+}
+
+#main {
+    font-size: 38px;
+}
+
+.list-recipes {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    background-color: rgb(201, 62, 52);
+    color: yellow;
+    text-align: center;
+}
+
+.cottage-pie p {
+    background-color: black;
+    color: yellow;
+}
+
+.cottage-pie, .pancakes, .brownies {
+    font-size: 24px;
+}
+
+.pancakes ul {
+    background-color: blue;
+    color: white;
+}
+
+h2 {
+    background-color: red;
+    font-size: 40px;
+}
+
+button {
+    font-size: larger;
+    font-weight: 900;
+    background-color: skyblue;
+    align-self: center;
+}
